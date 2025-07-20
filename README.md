@@ -47,10 +47,10 @@ We pulled out the top 4 ABNB inverse pairs (|r| ≥ 0.13, p ≈ 0.25�
 
 | Pair             | Correlation | p‑Value | Chart                                                 |
 |------------------|------------:|--------:|-------------------------------------------------------|
-| ABNB vs CPB      | −0.1343     | 0.2573  | ![ABNB vs CPB](price_plot_ABNB_CPB.png)      |
-| ABNB vs SJM      | −0.1343     | 0.2574  | ![ABNB vs SJM](price_plot_ABNB_SJM.png)      |
-| HUM vs ABNB      | −0.1313     | 0.2681  | ![HUM vs ABNB](price_plot_HUM_ABNB.png)      |
-| NOC vs ABNB      | −0.1073     | 0.3660  | ![NOC vs ABNB](price_plot_NOC_ABNB.png)      |
+| ABNB vs CPB      | −0.1343     | 0.2573  | ![ABNB vs CPB](result/price_plot_ABNB_CPB.png)      |
+| ABNB vs SJM      | −0.1343     | 0.2574  | ![ABNB vs SJM](result/price_plot_ABNB_SJM.png)      |
+| HUM vs ABNB      | −0.1313     | 0.2681  | ![HUM vs ABNB](result/price_plot_HUM_ABNB.png)      |
+| NOC vs ABNB      | −0.1073     | 0.3660  | ![NOC vs ABNB](result/price_plot_NOC_ABNB.png)      |
 
 ## Why These Inverse Relationships Persist
 
