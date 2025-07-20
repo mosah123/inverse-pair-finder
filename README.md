@@ -38,7 +38,7 @@ This repository identifies and visualizes pairs of assets that move inversely—
 ---
 ### Multithreaded Performance
 
-To speed up the heaviest step—pairwise correlation of ~125 K ticker combinations—the pipeline uses Python’s `ThreadPoolExecutor` to parallelize the work across CPU cores. This cut the correlation phase from ~35 s (single‑threaded) to ~9 s, slashing total runtime from ~40 s down to ~21 s and making the analysis rapid and scalable.
+To speed up the heaviest step pairwise correlation of ~125 K ticker combinations the pipeline uses Python’s `ThreadPoolExecutor` to parallelize the work across CPU cores. This cut the correlation phase from ~35 s (single‑threaded) to ~9 s, slashing total runtime from ~40 s down to ~21 s and making the analysis rapid and scalable.
 
 ---
 ## Case Study: Airbnb (ABNB) Inverse Relationships
