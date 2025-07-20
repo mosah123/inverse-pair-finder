@@ -47,13 +47,29 @@ We pulled out the top 4 ABNB inverse pairs (|r| ≥ 0.13, p ≈ 0.25�
 | HUM vs ABNB      | −0.1313     | 0.2681  | ![HUM vs ABNB](price_plot_HUM_ABNB.png)      |
 | NOC vs ABNB      | −0.1073     | 0.3660  | ![NOC vs ABNB](price_plot_NOC_ABNB.png)      |
 
-**Why this inverse behavior?**
+## Why These Inverse Relationships Persist
 
-- **Sector rotation & risk appetite:**  
-  - **CPB (Campbell Soup) & SJM (J.M. Smucker)** are consumer‑staple names. In risk‑off periods (when investors flock to defensives), staples tend to rally **while** travel‑and‑leisure (ABNB) lags.  
-  - **HUM (Humana)** is in health‑care; likewise, it can outperform when growth/travel names pull back.  
-  - **NOC (Northrop Grumman)** is defense/industrial—also considered defensive when macro uncertainty rises.  
+During economic downturns, geopolitical uncertainty, or sudden market shocks, investors routinely rotate capital out of high‑beta, discretionary stocks and into “defensive” sectors businesses whose revenues and cash flows are more stable when consumer confidence falls. This sector rotation dynamic explains the negative correlations we observe between Airbnb (ABNB) and the following names:
 
-In short, during market stress or rising recession fears, investors rotate **out** of high‑beta, discretionary names like Airbnb and **into** staples, health‑care, or defense. That risk‑off/sectors‑switch dynamic drives these modest but consistent inverse correlations.
+### Consumer Staples vs. Travel & Leisure
+- **CPB (Campbell Soup)** & **SJM (J.M. Smucker)**  
+  - Sell everyday food staples that remain in demand even when households tighten their budgets.  
+  - In risk‑off environments, money flows **into** staples and **out of** discretionary travel plays like ABNB, causing CPB/SJM to outperform as ABNB lags.
+
+### Health Care as a Safe Harbor
+- **HUM (Humana)**  
+  - Operates in health insurance, a sector underpinned by necessity rather than consumer sentiment.  
+  - When growth names retreat, investors seek the predictability of healthcare revenues lifting HUM even as ABNB underperforms.
+
+### Defense & Industrial Resilience
+- **NOC (Northrop Grumman)**  
+  - Holds long‑term, government backed contracts with revenue streams less tied to consumer spending.  
+  - In periods of macro or geopolitical stress, defense names attract “safe‑haven” flows, driving NOC higher while ABNB weathers the downturn.
 
 ---
+
+**In summary:**  
+1. **Risk‑off rotation** pushes capital into staples, healthcare, and defense—sectors that can maintain or grow revenues in weak economic conditions.  
+2. **Discretionary travel & leisure names** like Airbnb see demand—and share prices drop first when consumers retrench.  
+3. The result is a modest but consistent **inverse correlation** between ABNB and each of CPB, SJM, HUM, and NOC.  
+
