@@ -1,6 +1,6 @@
 # Inverse‑Pair Finder: Sector Rotation & Hedge Analysis
 
-This repository identifies and visualizes pairs of assets that move inversely—helpful for hedging, sector‑rotation studies, and quantitative trading strategies. We scan a universe of equities (or ETFs), compute pairwise Pearson correlations on returns, and produce both normalized‑price charts and return‑scatter plots for the strongest inverse relationships.
+This repository identifies and visualizes pairs of assets that move inversel helpful for hedging, sector rotation studies, and quantitative trading strategies. We scan a universe of equities (or ETFs), compute pairwise Pearson correlations on returns, and produce both normalized‑price charts and return‑scatter plots for the strongest inverse relationships.
 
 ---
 
@@ -54,7 +54,7 @@ We pulled out the top 4 ABNB inverse pairs (|r| ≥ 0.13, p ≈ 0.25�
 
 ## Why These Inverse Relationships Persist
 
-During economic downturns, geopolitical uncertainty, or sudden market shocks, investors routinely rotate capital out of high‑beta, discretionary stocks and into “defensive” sectors businesses whose revenues and cash flows are more stable when consumer confidence falls. This sector rotation dynamic explains the negative correlations we observe between Airbnb (ABNB) and the following names:
+During economic downturns, geopolitical uncertainty, or sudden market shocks, investors routinely rotate capital out of high beta, discretionary stocks and into “defensive” sectors businesses whose revenues and cash flows are more stable when consumer confidence falls. This sector rotation dynamic explains the negative correlations we observe between Airbnb (ABNB) and the following names:
 
 ### Consumer Staples vs. Travel & Leisure
 - **CPB (Campbell Soup)** & **SJM (J.M. Smucker)**  
@@ -74,7 +74,7 @@ During economic downturns, geopolitical uncertainty, or sudden market shocks, in
 ---
 
 **In summary:**  
-1. **Risk‑off rotation** pushes capital into staples, healthcare, and defense—sectors that can maintain or grow revenues in weak economic conditions.  
+1. **Risk‑off rotation** pushes capital into staples, healthcare, and defense sectors that can maintain or grow revenues in weak economic conditions.  
 2. **Discretionary travel & leisure names** like Airbnb see demand—and share prices drop first when consumers retrench.  
 3. The result is a modest but consistent **inverse correlation** between ABNB and each of CPB, SJM, HUM, and NOC.  
 
